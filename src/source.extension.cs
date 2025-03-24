@@ -10,7 +10,7 @@ namespace KeyboardHero
     {
         public const string Id = "KeyboardHero.a180ac1b-e008-4a04-8d2b-30266ce0e9a6";
         public const string Name = "Keyboard Hero";
-        public const string Description = @"Shows you what keyboard shortcuts you would benefit the most from learning based on your usage of Visual StudioShows ";
+        public const string Description = @"Shows you what keyboard shortcuts you would benefit the most from learning based on your usage of Visual Studio";
         public const string Language = "en-US";
         public const string Version = "1.0";
         public const string Author = "Mads Kristensen";
