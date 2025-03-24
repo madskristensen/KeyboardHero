@@ -1,0 +1,36 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.35923.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyboardHero", "src\KeyboardHero.csproj", "{A1D79CC4-0F71-4BC8-A4A1-CEA906E990EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|arm64 = Debug|arm64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|arm64 = Release|arm64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1D79CC4-0F71-4BC8-A4A1-CEA906E990EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1D79CC4-0F71-4BC8-A4A1-CEA906E990EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1D79CC4-0F71-4BC8-A4A1-CEA906E990EE}.Debug|arm64.ActiveCfg = Debug|arm64
+		{A1D79CC4-0F71-4BC8-A4A1-CEA906E990EE}.Debug|arm64.Build.0 = Debug|arm64
+		{A1D79CC4-0F71-4BC8-A4A1-CEA906E990EE}.Debug|x86.ActiveCfg = Debug|x86
+		{A1D79CC4-0F71-4BC8-A4A1-CEA906E990EE}.Debug|x86.Build.0 = Debug|x86
+		{A1D79CC4-0F71-4BC8-A4A1-CEA906E990EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1D79CC4-0F71-4BC8-A4A1-CEA906E990EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1D79CC4-0F71-4BC8-A4A1-CEA906E990EE}.Release|arm64.ActiveCfg = Release|arm64
+		{A1D79CC4-0F71-4BC8-A4A1-CEA906E990EE}.Release|arm64.Build.0 = Release|arm64
+		{A1D79CC4-0F71-4BC8-A4A1-CEA906E990EE}.Release|x86.ActiveCfg = Release|x86
+		{A1D79CC4-0F71-4BC8-A4A1-CEA906E990EE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E358535E-5FBD-4B41-B60A-29A68A5062CC}
+	EndGlobalSection
+EndGlobal
