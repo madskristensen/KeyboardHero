@@ -47,6 +47,7 @@
   <ItemGroup>
     <Compile Include="CommandHistory.cs" />
     <Compile Include="CommandIntercepter.cs" />
+    <Compile Include="IgnoreManager.cs" />
     <Compile Include="Options\General.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Commands\ShowHistoryWindowCommand.cs" />
