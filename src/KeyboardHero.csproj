@@ -47,6 +47,11 @@
   <ItemGroup>
     <Compile Include="CommandHistory.cs" />
     <Compile Include="CommandIntercepter.cs" />
+    <Compile Include="Commands\OpenHistoryFileCommand.cs" />
+    <Compile Include="Commands\ResetCommand.cs" />
+    <Compile Include="Commands\ReloadCommand.cs" />
+    <Compile Include="Commands\OpenIgnoreListCommand.cs" />
+    <Compile Include="Commands\ToggleCommand.cs" />
     <Compile Include="IgnoreManager.cs" />
     <Compile Include="Options\General.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

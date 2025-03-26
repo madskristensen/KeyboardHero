@@ -22,6 +22,14 @@ namespace KeyboardHero
     /// </summary>
     internal sealed partial class PackageIds
     {
+        public const int Toolbar = 0x0001;
+        public const int ToolbarCommandGroup = 0x0010;
+        public const int ToolbarUtilityGroup = 0x0020;
         public const int ShowHistoryWindow = 0x0100;
+        public const int Toggle = 0x0150;
+        public const int ReloadWindow = 0x0200;
+        public const int Reset = 0x0300;
+        public const int OpenIgnoreList = 0x0400;
+        public const int OpenCommandList = 0x0500;
     }
 }
