@@ -12,7 +12,7 @@ namespace KeyboardHero
         private CommandEvents _events;
         private bool _showShortcut;
         private CommandHistory _history;
-        private readonly Key[] _keys = [Key.LeftCtrl, Key.RightCtrl, Key.LeftAlt, Key.RightAlt, Key.LeftShift, Key.RightShift];
+        private readonly Key[] _keys = Enum.GetValues(typeof(Key)).Cast<Key>().Where(key => key != Key.None).ToArray();
         private static bool _isEnabled;
         private bool _disposed;
 
